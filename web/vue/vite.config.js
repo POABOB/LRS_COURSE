@@ -16,7 +16,7 @@ export default defineConfig({
   define: {
     "process.env": {
       "VUE_APP_BASE_API": "http://lrs.im.ncue.edu.tw:3000",
-      "VUE_APP_GOOGLE_CLIENT_ID": "696986273196-ete7bbkt6jkuq761fpeuvo17mfh8jbke.apps.googleusercontent.com"
+      "VUE_APP_GOOGLE_CLIENT_ID": "696986273196-l9h9bagm8eu2pgm0ucpk51bdbi56f6it.apps.googleusercontent.com"
     }
   },
   
